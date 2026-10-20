@@ -1,0 +1,7 @@
+[
+  "App crashes immediately after I tap Checkout on Android 14. Stack trace shows NullPointerException in CartActivity. Happens every time, can't buy anything.",
+  "After last night's migration, about 300 customer records are missing from the orders table. Looks like data was deleted. Production affected.",
+  "Dashboard takes 40+ seconds to load when filtering by date range over 6 months. Sometimes times out. Started after v2.3 release.",
+  "The Save button text is misaligned by a couple of pixels on the settings page in dark mode. Cosmetic.",
+  "Users report getting 401 errors right after logging in via SSO. Token seems to expire immediately. Started today around 10am."
+]
